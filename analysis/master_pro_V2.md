@@ -7,7 +7,7 @@
 ## Portrait
 
 
-<img src="../imgs/master_pro_V2.webp" width="200"/>
+<img src="../imgs/wheels/portrait/master_pro_V2.webp" width="200"/>
 
 ## Specifications
 
