@@ -19,7 +19,7 @@ EUCs logs analyzed to provide real statistics
 | Begode   | Mten4      | <img src="imgs/wheels/portrait/mten4.webp" alt="drawing" width="64"/>       | 1     | [details](analysis/mten4.md)       |
 | Begode   | Master pro | <img src="imgs/wheels/portrait/master_pro_V2.webp" alt="drawing" width="64"/> | V2    | [details](analysis/master_pro_V2.md) |
 | Inmotion | V9         | <img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>          | 1     | [details](analysis/v9.md)          |
-| Kingsong | S22 pro    | <img src="imgs/wheels/portrait/s22.webp" alt="drawing" width="64"/>         | 1     | [details](analysis/s22_pro.md)      |
+| Kingsong | S22 pro    | <img src="imgs/wheels/portrait/s22_pro.webp" alt="drawing" width="64"/>         | 1     | [details](analysis/s22_pro.md)      |
 | Ninebot  | Z10        | <img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>         | 2     | [details](analysis/z10.md)         |
 
 
