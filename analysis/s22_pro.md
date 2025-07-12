@@ -7,7 +7,7 @@
 ## Portrait
 
 
-<img src="../imgs/s22_pro.webp" width="200"/>
+<img src="../imgs/wheels/portrait/s22_pro.webp" width="200"/>
 
 ## Specifications
 

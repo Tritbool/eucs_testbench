@@ -1,13 +1,9 @@
-
-
-
-
 # Begode MTEN4
 **RELEASE YEAR :**  2022
 ## Portrait
 
 
-<img src="../imgs/mten4.webp" width="200"/>
+<img src="../imgs/wheels/portrait/mten4.webp" width="200"/>
 
 ## Specifications
 
