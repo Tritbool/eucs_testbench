@@ -5,6 +5,8 @@
 # EUCS_testbench
 **EUCs logs analyzed to provide real statistics**
 > This page aims at providing insight of different EUC performance in real life usage.
+## Contributing
+If you want to submit some EUC logs, you can do it through [this dedicated form](https://forms.gle/Te37CigvDEXZacGC6)
 ## Methods
 - **Each analysis consists of the analyze of a single trip's data for a single wheel.**
 
@@ -33,4 +35,8 @@
 |ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
 
 ## Further data
-The more data for different wheels is collected, the more acurate analysis can be.For more acurate information, many trips should be analyzed and results aggregated to provide better insights of real world usafe of those devices.---
+The more data for different wheels is collected, the more acurate analysis can be.For more acurate information, many trips should be analyzed and results aggregated to provide better insights of real world usafe of those devices.
+
+---
+
+**Contributing form:** [https://forms.gle/Te37CigvDEXZacGC6](https://forms.gle/Te37CigvDEXZacGC6)
