@@ -9,6 +9,8 @@
 ## Contributing
 If you want to submit some EUC logs, you can do it through [this dedicated form](https://forms.gle/Te37CigvDEXZacGC6)
 ## Methods
+- **All the pages of this website are automatically generated directly from the available data**
+
 - **Each wheel detailing page contains aggregated data of all logs that are available for this particular wheel.**
 
 - **Each trip is analyzed in detail and linked in a table in the bottom of each wheel's detailing page.**
