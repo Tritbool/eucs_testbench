@@ -5,12 +5,16 @@
 # EUCS_testbench
 **EUCs logs analyzed to provide real statistics**
 > This page aims at providing insight of different EUC performance in real life usage.
+
 ## Contributing
 If you want to submit some EUC logs, you can do it through [this dedicated form](https://forms.gle/Te37CigvDEXZacGC6)
 ## Methods
-- **Each analysis consists of the analyze of a single trip's data for a single wheel.**
+- **Each wheel detailing page contains aggregated data of all logs that are available for this particular wheel.**
+
+- **Each trip is analyzed in detail and linked in a table in the bottom of each wheel's detailing page.**
 
 - So far data must come from **WheelLog** or **EUC World**
+
 ## Average data based on all available data
 
 |**Field**|**Unit**|**Data**|
@@ -25,7 +29,7 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 
 ## Existing data
 
-|Brand|Model|Portrait|Analysis|
+|Brand|Model|Portrait|Details|
 | :---: | :---: | :---: | :---: |
 |kingsong|s22_pro|<img src="imgs/wheels/portrait/s22_pro.webp" alt="drawing" width="64"/>|[details](analysis/s22_pro.md)|
 |begode|mten4|<img src="imgs/wheels/portrait/mten4.webp" alt="drawing" width="64"/>|[details](analysis/mten4.md)|
