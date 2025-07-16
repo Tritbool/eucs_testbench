@@ -21,24 +21,24 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|31.58|
-|Average Rider Weight|kg|85.67|
-|Average Wheel Weight|kg|33.19|
-|Average Speed|km.h|29.46|
-|Average Power|Watts|804.62|
-|Average Consumption per trip|kWh|0.91|
-|Average Consumption|Wh.km|25.6|
+|Average Trip Distance|km|30.31|
+|Average Rider Weight|kg|85.31|
+|Average Wheel Weight|kg|32.58|
+|Average Speed|km.h|29.28|
+|Average Power|Watts|787.03|
+|Average Consumption per trip|kWh|0.86|
+|Average Consumption|Wh.km|25.24|
 
 ## Existing data
 
 |Brand|Model|Portrait|Details|
 | :---: | :---: | :---: | :---: |
+|ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
+|inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
 |kingsong|s22_pro|<img src="imgs/wheels/portrait/s22_pro.webp" alt="drawing" width="64"/>|[details](analysis/s22_pro.md)|
 |begode|mten4|<img src="imgs/wheels/portrait/mten4.webp" alt="drawing" width="64"/>|[details](analysis/mten4.md)|
 |begode|blitz|<img src="imgs/wheels/portrait/blitz.webp" alt="drawing" width="64"/>|[details](analysis/blitz.md)|
 |begode|master_pro_V2|<img src="imgs/wheels/portrait/master_pro_V2.webp" alt="drawing" width="64"/>|[details](analysis/master_pro_V2.md)|
-|inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
-|ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
 
 ## Further data
 The more data for different wheels is collected, the more acurate analysis can be.For more acurate information, many trips should be analyzed and results aggregated to provide better insights of real world usafe of those devices.
