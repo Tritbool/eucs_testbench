@@ -21,18 +21,19 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|30.31|
-|Average Rider Weight|kg|85.31|
-|Average Wheel Weight|kg|32.58|
-|Average Speed|km.h|29.28|
-|Average Power|Watts|787.03|
-|Average Consumption per trip|kWh|0.86|
-|Average Consumption|Wh.km|25.24|
+|Average Trip Distance|km|28.81|
+|Average Rider Weight|kg|84.24|
+|Average Wheel Weight|kg|32.11|
+|Average Speed|km.h|28.96|
+|Average Power|Watts|766.41|
+|Average Consumption per trip|kWh|0.82|
+|Average Consumption|Wh.km|24.84|
 
 ## Existing data
 
 |Brand|Model|Portrait|Details|
 | :---: | :---: | :---: | :---: |
+|nosfet|aero|<img src="imgs/wheels/portrait/aero.webp" alt="drawing" width="64"/>|[details](analysis/aero.md)|
 |ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
 |inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
 |kingsong|s22_pro|<img src="imgs/wheels/portrait/s22_pro.webp" alt="drawing" width="64"/>|[details](analysis/s22_pro.md)|
