@@ -20,7 +20,7 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 ## Average data based on all available data
 
 
-> Based on 21 trips.
+> Based on 19 trips.
 
 
 |**Field**|**Unit**|**Data**|
