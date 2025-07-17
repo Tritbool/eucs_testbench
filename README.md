@@ -20,18 +20,18 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 ## Average data based on all available data
 
 
-> Based on 19 trips.
+> Based on 21 trips.
 
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|26.86|
-|Average Rider Weight|kg|83.89|
-|Average Wheel Weight|kg|31.2|
-|Average Speed|km.h|28.67|
-|Average Power|Watts|746.01|
-|Average Consumption per trip|kWh|0.75|
-|Average Consumption|Wh.km|24.53|
+|Average Trip Distance|km|25.42|
+|Average Rider Weight|kg|83.71|
+|Average Wheel Weight|kg|31.65|
+|Average Speed|km.h|29.96|
+|Average Power|Watts|840.92|
+|Average Consumption per trip|kWh|0.72|
+|Average Consumption|Wh.km|26.07|
 
 ## Existing data
 
