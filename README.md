@@ -20,30 +20,30 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 ## Average data based on all available data
 
 
-> Based on 21 trips.
+> Based on 22 trips.
 
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|25.42|
-|Average Rider Weight|kg|83.71|
-|Average Wheel Weight|kg|31.65|
-|Average Speed|km.h|29.96|
-|Average Power|Watts|840.92|
+|Average Trip Distance|km|25.32|
+|Average Rider Weight|kg|83.68|
+|Average Wheel Weight|kg|32.64|
+|Average Speed|km.h|30.48|
+|Average Power|Watts|859.45|
 |Average Consumption per trip|kWh|0.72|
-|Average Consumption|Wh.km|26.07|
+|Average Consumption|Wh.km|26.2|
 
 ## Existing data
 
 |Brand|Model|Portrait|Details|
 | :---: | :---: | :---: | :---: |
+|nosfet|aero|<img src="imgs/wheels/portrait/aero.webp" alt="drawing" width="64"/>|[details](analysis/aero.md)|
+|ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
+|inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
 |kingsong|s22_pro|<img src="imgs/wheels/portrait/s22_pro.webp" alt="drawing" width="64"/>|[details](analysis/s22_pro.md)|
 |begode|mten4|<img src="imgs/wheels/portrait/mten4.webp" alt="drawing" width="64"/>|[details](analysis/mten4.md)|
 |begode|blitz|<img src="imgs/wheels/portrait/blitz.webp" alt="drawing" width="64"/>|[details](analysis/blitz.md)|
 |begode|master_pro_V2|<img src="imgs/wheels/portrait/master_pro_V2.webp" alt="drawing" width="64"/>|[details](analysis/master_pro_V2.md)|
-|inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
-|ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
-|nosfet|aero|<img src="imgs/wheels/portrait/aero.webp" alt="drawing" width="64"/>|[details](analysis/aero.md)|
 
 ## Further data
 The more data for different wheels is collected, the more acurate analysis can be.For more acurate information, many trips should be analyzed and results aggregated to provide better insights of real world usafe of those devices.
