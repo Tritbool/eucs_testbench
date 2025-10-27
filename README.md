@@ -20,24 +20,25 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 ## Average data based on all available data
 
 
-> Based on 30 trips.
+> Based on 31 trips.
 
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|27.06|
-|Average Rider Weight|kg|82.53|
-|Average Wheel Weight|kg|34.29|
-|Average Speed|km.h|31.92|
-|Average Power|Watts|978.85|
+|Average Trip Distance|km|26.94|
+|Average Rider Weight|kg|82.77|
+|Average Wheel Weight|kg|34.44|
+|Average Speed|km.h|32.1|
+|Average Power|Watts|986.75|
 |Average Consumption per trip|kWh|0.82|
-|Average Consumption|Wh.km|27.91|
+|Average Consumption|Wh.km|28.1|
 
 ## Existing data
 
 |Brand|Model|Portrait|Details|
 | :---: | :---: | :---: | :---: |
 |begode|blitz|<img src="imgs/wheels/portrait/blitz.webp" alt="drawing" width="64"/>|[details](analysis/blitz.md)|
+|begode|extreme_C36|<img src="imgs/wheels/portrait/extreme_C36.webp" alt="drawing" width="64"/>|[details](analysis/extreme_C36.md)|
 |begode|master_pro_V2|<img src="imgs/wheels/portrait/master_pro_V2.webp" alt="drawing" width="64"/>|[details](analysis/master_pro_V2.md)|
 |begode|mten4|<img src="imgs/wheels/portrait/mten4.webp" alt="drawing" width="64"/>|[details](analysis/mten4.md)|
 |inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
