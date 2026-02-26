@@ -7,7 +7,7 @@
 > This page aims at providing insight of different EUC performance in real life usage.
 
 ## Contributing
-If you want to submit some EUC logs, you can do it through [this dedicated form](https://forms.gle/Te37CigvDEXZacGC6)
+Contributions are closed.
 ## Methods
 - **All the pages of this website are automatically generated directly from the available data**
 
@@ -20,18 +20,18 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 ## Average data based on all available data
 
 
-> Based on 52 trips.
+> Based on 54 trips.
 
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|25.26|
-|Average Rider Weight|kg|85.51|
-|Average Wheel Weight|kg|36.94|
-|Average Speed|km.h|31.94|
-|Average Power|Watts|1021.39|
-|Average Consumption per trip|kWh|0.76|
-|Average Consumption|Wh.km|28.92|
+|Average Trip Distance|km|25.23|
+|Average Rider Weight|kg|85.72|
+|Average Wheel Weight|kg|37.59|
+|Average Speed|km.h|31.93|
+|Average Power|Watts|1010.19|
+|Average Consumption per trip|kWh|0.75|
+|Average Consumption|Wh.km|28.61|
 
 ## Existing data
 
@@ -53,5 +53,3 @@ If you want to submit some EUC logs, you can do it through [this dedicated form]
 The more data for different wheels is collected, the more acurate analysis can be.For more acurate information, many trips should be analyzed and results aggregated to provide better insights of real world usafe of those devices.
 
 ---
-
-**Contributing form:** [https://forms.gle/Te37CigvDEXZacGC6](https://forms.gle/Te37CigvDEXZacGC6)
