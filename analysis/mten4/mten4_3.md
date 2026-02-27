@@ -4,46 +4,46 @@
 
 # Trip details
 <style type="text/css">
-#T_428b1_row0_col0 {
+#T_f3017_row0_col0 {
   background-color: mediumpurple;
 }
-#T_428b1_row0_col2 {
+#T_f3017_row0_col2 {
   background-color: orange;
 }
 </style>
-<table id="T_428b1">
+<table id="T_f3017">
   <thead>
     <tr>
       <th class="blank level0" >&nbsp;</th>
-      <th id="T_428b1_level0_col0" class="col_heading level0 col0" >data_origin</th>
-      <th id="T_428b1_level0_col1" class="col_heading level0 col1" >trip_id</th>
-      <th id="T_428b1_level0_col2" class="col_heading level0 col2" >trip_type</th>
-      <th id="T_428b1_level0_col3" class="col_heading level0 col3" >trip_distance_km</th>
-      <th id="T_428b1_level0_col4" class="col_heading level0 col4" >rider_weight_kg</th>
-      <th id="T_428b1_level0_col5" class="col_heading level0 col5" >wheel_weight_kg</th>
-      <th id="T_428b1_level0_col6" class="col_heading level0 col6" >global_weight_kg</th>
-      <th id="T_428b1_level0_col7" class="col_heading level0 col7" >tire_pressure_bars</th>
-      <th id="T_428b1_level0_col8" class="col_heading level0 col8" >outdoor_temperature_c</th>
-      <th id="T_428b1_level0_col9" class="col_heading level0 col9" >wind</th>
-      <th id="T_428b1_level0_col10" class="col_heading level0 col10" >rain</th>
-      <th id="T_428b1_level0_col11" class="col_heading level0 col11" >altitude_difference</th>
+      <th id="T_f3017_level0_col0" class="col_heading level0 col0" >data_origin</th>
+      <th id="T_f3017_level0_col1" class="col_heading level0 col1" >trip_id</th>
+      <th id="T_f3017_level0_col2" class="col_heading level0 col2" >trip_type</th>
+      <th id="T_f3017_level0_col3" class="col_heading level0 col3" >trip_distance_km</th>
+      <th id="T_f3017_level0_col4" class="col_heading level0 col4" >rider_weight_kg</th>
+      <th id="T_f3017_level0_col5" class="col_heading level0 col5" >wheel_weight_kg</th>
+      <th id="T_f3017_level0_col6" class="col_heading level0 col6" >global_weight_kg</th>
+      <th id="T_f3017_level0_col7" class="col_heading level0 col7" >tire_pressure_bars</th>
+      <th id="T_f3017_level0_col8" class="col_heading level0 col8" >outdoor_temperature_c</th>
+      <th id="T_f3017_level0_col9" class="col_heading level0 col9" >wind</th>
+      <th id="T_f3017_level0_col10" class="col_heading level0 col10" >rain</th>
+      <th id="T_f3017_level0_col11" class="col_heading level0 col11" >altitude_difference</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="T_428b1_level0_row0" class="row_heading level0 row0" >0</th>
-      <td id="T_428b1_row0_col0" class="data row0 col0" >euc_world</td>
-      <td id="T_428b1_row0_col1" class="data row0 col1" >3</td>
-      <td id="T_428b1_row0_col2" class="data row0 col2" >commute</td>
-      <td id="T_428b1_row0_col3" class="data row0 col3" >11.113000</td>
-      <td id="T_428b1_row0_col4" class="data row0 col4" >85.000000</td>
-      <td id="T_428b1_row0_col5" class="data row0 col5" >13.000000</td>
-      <td id="T_428b1_row0_col6" class="data row0 col6" >98.000000</td>
-      <td id="T_428b1_row0_col7" class="data row0 col7" >2.400000</td>
-      <td id="T_428b1_row0_col8" class="data row0 col8" >20.000000</td>
-      <td id="T_428b1_row0_col9" class="data row0 col9" >low</td>
-      <td id="T_428b1_row0_col10" class="data row0 col10" >False</td>
-      <td id="T_428b1_row0_col11" class="data row0 col11" >None</td>
+      <th id="T_f3017_level0_row0" class="row_heading level0 row0" >0</th>
+      <td id="T_f3017_row0_col0" class="data row0 col0" >euc_world</td>
+      <td id="T_f3017_row0_col1" class="data row0 col1" >3</td>
+      <td id="T_f3017_row0_col2" class="data row0 col2" >commute</td>
+      <td id="T_f3017_row0_col3" class="data row0 col3" >11.113000</td>
+      <td id="T_f3017_row0_col4" class="data row0 col4" >85.000000</td>
+      <td id="T_f3017_row0_col5" class="data row0 col5" >13.000000</td>
+      <td id="T_f3017_row0_col6" class="data row0 col6" >98.000000</td>
+      <td id="T_f3017_row0_col7" class="data row0 col7" >2.400000</td>
+      <td id="T_f3017_row0_col8" class="data row0 col8" >20.000000</td>
+      <td id="T_f3017_row0_col9" class="data row0 col9" >low</td>
+      <td id="T_f3017_row0_col10" class="data row0 col10" >False</td>
+      <td id="T_f3017_row0_col11" class="data row0 col11" >None</td>
     </tr>
   </tbody>
 </table>
@@ -51,73 +51,73 @@
 
 # Summary
 <style type="text/css">
-#T_4fa0d_row0_col0, #T_4fa0d_row0_col1, #T_4fa0d_row0_col2, #T_4fa0d_row0_col3, #T_4fa0d_row0_col4, #T_4fa0d_row1_col0, #T_4fa0d_row2_col0, #T_4fa0d_row3_col0, #T_4fa0d_row3_col6 {
+#T_41f3a_row0_col0, #T_41f3a_row0_col1, #T_41f3a_row0_col2, #T_41f3a_row0_col3, #T_41f3a_row0_col4, #T_41f3a_row1_col0, #T_41f3a_row2_col0, #T_41f3a_row3_col0, #T_41f3a_row3_col6 {
   background-color: #fff7fb;
   color: #000000;
 }
-#T_4fa0d_row0_col5, #T_4fa0d_row0_col7, #T_4fa0d_row0_col8, #T_4fa0d_row0_col9, #T_4fa0d_row1_col5, #T_4fa0d_row1_col7, #T_4fa0d_row1_col8, #T_4fa0d_row1_col9, #T_4fa0d_row2_col5, #T_4fa0d_row2_col7, #T_4fa0d_row2_col8, #T_4fa0d_row2_col9, #T_4fa0d_row3_col5, #T_4fa0d_row3_col7, #T_4fa0d_row3_col8, #T_4fa0d_row3_col9 {
+#T_41f3a_row0_col5, #T_41f3a_row0_col7, #T_41f3a_row0_col8, #T_41f3a_row0_col9, #T_41f3a_row1_col5, #T_41f3a_row1_col7, #T_41f3a_row1_col8, #T_41f3a_row1_col9, #T_41f3a_row2_col5, #T_41f3a_row2_col7, #T_41f3a_row2_col8, #T_41f3a_row2_col9, #T_41f3a_row3_col5, #T_41f3a_row3_col7, #T_41f3a_row3_col8, #T_41f3a_row3_col9 {
   background-color: #000000;
   color: #f1f1f1;
 }
-#T_4fa0d_row0_col6 {
+#T_41f3a_row0_col6 {
   background-color: #3790c0;
   color: #f1f1f1;
 }
-#T_4fa0d_row1_col1, #T_4fa0d_row1_col2, #T_4fa0d_row1_col3, #T_4fa0d_row1_col4, #T_4fa0d_row1_col6 {
+#T_41f3a_row1_col1, #T_41f3a_row1_col2, #T_41f3a_row1_col3, #T_41f3a_row1_col4, #T_41f3a_row1_col6 {
   background-color: #023858;
   color: #f1f1f1;
 }
-#T_4fa0d_row2_col1 {
+#T_41f3a_row2_col1 {
   background-color: #ced0e6;
   color: #000000;
 }
-#T_4fa0d_row2_col2 {
+#T_41f3a_row2_col2 {
   background-color: #2685bb;
   color: #f1f1f1;
 }
-#T_4fa0d_row2_col3 {
+#T_41f3a_row2_col3 {
   background-color: #6da6cd;
   color: #f1f1f1;
 }
-#T_4fa0d_row2_col4 {
+#T_41f3a_row2_col4 {
   background-color: #78abd0;
   color: #f1f1f1;
 }
-#T_4fa0d_row2_col6 {
+#T_41f3a_row2_col6 {
   background-color: #046097;
   color: #f1f1f1;
 }
-#T_4fa0d_row3_col1 {
+#T_41f3a_row3_col1 {
   background-color: #c5cce3;
   color: #000000;
 }
-#T_4fa0d_row3_col2 {
+#T_41f3a_row3_col2 {
   background-color: #f1ebf5;
   color: #000000;
 }
-#T_4fa0d_row3_col3 {
+#T_41f3a_row3_col3 {
   background-color: #5ea0ca;
   color: #f1f1f1;
 }
-#T_4fa0d_row3_col4 {
+#T_41f3a_row3_col4 {
   background-color: #69a5cc;
   color: #f1f1f1;
 }
 </style>
-<table id="T_4fa0d">
+<table id="T_41f3a">
   <thead>
     <tr>
       <th class="blank level0" >&nbsp;</th>
-      <th id="T_4fa0d_level0_col0" class="col_heading level0 col0" >trip_id</th>
-      <th id="T_4fa0d_level0_col1" class="col_heading level0 col1" >wh.km-1</th>
-      <th id="T_4fa0d_level0_col2" class="col_heading level0 col2" >speed</th>
-      <th id="T_4fa0d_level0_col3" class="col_heading level0 col3" >power</th>
-      <th id="T_4fa0d_level0_col4" class="col_heading level0 col4" >current</th>
-      <th id="T_4fa0d_level0_col5" class="col_heading level0 col5" >current_phase</th>
-      <th id="T_4fa0d_level0_col6" class="col_heading level0 col6" >temperature</th>
-      <th id="T_4fa0d_level0_col7" class="col_heading level0 col7" >motor_temperature</th>
-      <th id="T_4fa0d_level0_col8" class="col_heading level0 col8" >battery_temperature</th>
-      <th id="T_4fa0d_level0_col9" class="col_heading level0 col9" >safety_margin</th>
+      <th id="T_41f3a_level0_col0" class="col_heading level0 col0" >trip_id</th>
+      <th id="T_41f3a_level0_col1" class="col_heading level0 col1" >wh.km-1</th>
+      <th id="T_41f3a_level0_col2" class="col_heading level0 col2" >speed</th>
+      <th id="T_41f3a_level0_col3" class="col_heading level0 col3" >power</th>
+      <th id="T_41f3a_level0_col4" class="col_heading level0 col4" >current</th>
+      <th id="T_41f3a_level0_col5" class="col_heading level0 col5" >current_phase</th>
+      <th id="T_41f3a_level0_col6" class="col_heading level0 col6" >temperature</th>
+      <th id="T_41f3a_level0_col7" class="col_heading level0 col7" >motor_temperature</th>
+      <th id="T_41f3a_level0_col8" class="col_heading level0 col8" >battery_temperature</th>
+      <th id="T_41f3a_level0_col9" class="col_heading level0 col9" >safety_margin</th>
     </tr>
     <tr>
       <th class="index_name level0" >stat</th>
@@ -135,56 +135,56 @@
   </thead>
   <tbody>
     <tr>
-      <th id="T_4fa0d_level0_row0" class="row_heading level0 row0" >min</th>
-      <td id="T_4fa0d_row0_col0" class="data row0 col0" >3</td>
-      <td id="T_4fa0d_row0_col1" class="data row0 col1" >-67.641844</td>
-      <td id="T_4fa0d_row0_col2" class="data row0 col2" >3.020000</td>
-      <td id="T_4fa0d_row0_col3" class="data row0 col3" >-1189.000000</td>
-      <td id="T_4fa0d_row0_col4" class="data row0 col4" >-14.160000</td>
-      <td id="T_4fa0d_row0_col5" class="data row0 col5" >nan</td>
-      <td id="T_4fa0d_row0_col6" class="data row0 col6" >22.000000</td>
-      <td id="T_4fa0d_row0_col7" class="data row0 col7" >nan</td>
-      <td id="T_4fa0d_row0_col8" class="data row0 col8" >nan</td>
-      <td id="T_4fa0d_row0_col9" class="data row0 col9" >nan</td>
+      <th id="T_41f3a_level0_row0" class="row_heading level0 row0" >min</th>
+      <td id="T_41f3a_row0_col0" class="data row0 col0" >3</td>
+      <td id="T_41f3a_row0_col1" class="data row0 col1" >-67.641844</td>
+      <td id="T_41f3a_row0_col2" class="data row0 col2" >3.020000</td>
+      <td id="T_41f3a_row0_col3" class="data row0 col3" >-1189.000000</td>
+      <td id="T_41f3a_row0_col4" class="data row0 col4" >-14.160000</td>
+      <td id="T_41f3a_row0_col5" class="data row0 col5" >nan</td>
+      <td id="T_41f3a_row0_col6" class="data row0 col6" >22.000000</td>
+      <td id="T_41f3a_row0_col7" class="data row0 col7" >nan</td>
+      <td id="T_41f3a_row0_col8" class="data row0 col8" >nan</td>
+      <td id="T_41f3a_row0_col9" class="data row0 col9" >nan</td>
     </tr>
     <tr>
-      <th id="T_4fa0d_level0_row1" class="row_heading level0 row1" >max</th>
-      <td id="T_4fa0d_row1_col0" class="data row1 col0" >3</td>
-      <td id="T_4fa0d_row1_col1" class="data row1 col1" >241.775457</td>
-      <td id="T_4fa0d_row1_col2" class="data row1 col2" >25.130000</td>
-      <td id="T_4fa0d_row1_col3" class="data row1 col3" >1588.000000</td>
-      <td id="T_4fa0d_row1_col4" class="data row1 col4" >21.010000</td>
-      <td id="T_4fa0d_row1_col5" class="data row1 col5" >nan</td>
-      <td id="T_4fa0d_row1_col6" class="data row1 col6" >34.000000</td>
-      <td id="T_4fa0d_row1_col7" class="data row1 col7" >nan</td>
-      <td id="T_4fa0d_row1_col8" class="data row1 col8" >nan</td>
-      <td id="T_4fa0d_row1_col9" class="data row1 col9" >nan</td>
+      <th id="T_41f3a_level0_row1" class="row_heading level0 row1" >max</th>
+      <td id="T_41f3a_row1_col0" class="data row1 col0" >3</td>
+      <td id="T_41f3a_row1_col1" class="data row1 col1" >241.775457</td>
+      <td id="T_41f3a_row1_col2" class="data row1 col2" >25.130000</td>
+      <td id="T_41f3a_row1_col3" class="data row1 col3" >1588.000000</td>
+      <td id="T_41f3a_row1_col4" class="data row1 col4" >21.010000</td>
+      <td id="T_41f3a_row1_col5" class="data row1 col5" >nan</td>
+      <td id="T_41f3a_row1_col6" class="data row1 col6" >34.000000</td>
+      <td id="T_41f3a_row1_col7" class="data row1 col7" >nan</td>
+      <td id="T_41f3a_row1_col8" class="data row1 col8" >nan</td>
+      <td id="T_41f3a_row1_col9" class="data row1 col9" >nan</td>
     </tr>
     <tr>
-      <th id="T_4fa0d_level0_row2" class="row_heading level0 row2" >mean</th>
-      <td id="T_4fa0d_row2_col0" class="data row2 col0" >3</td>
-      <td id="T_4fa0d_row2_col1" class="data row2 col1" >12.079057</td>
-      <td id="T_4fa0d_row2_col2" class="data row2 col2" >17.755349</td>
-      <td id="T_4fa0d_row2_col3" class="data row2 col3" >238.253180</td>
-      <td id="T_4fa0d_row2_col4" class="data row2 col4" >3.029304</td>
-      <td id="T_4fa0d_row2_col5" class="data row2 col5" >nan</td>
-      <td id="T_4fa0d_row2_col6" class="data row2 col6" >28.868970</td>
-      <td id="T_4fa0d_row2_col7" class="data row2 col7" >nan</td>
-      <td id="T_4fa0d_row2_col8" class="data row2 col8" >nan</td>
-      <td id="T_4fa0d_row2_col9" class="data row2 col9" >nan</td>
+      <th id="T_41f3a_level0_row2" class="row_heading level0 row2" >mean</th>
+      <td id="T_41f3a_row2_col0" class="data row2 col0" >3</td>
+      <td id="T_41f3a_row2_col1" class="data row2 col1" >12.079057</td>
+      <td id="T_41f3a_row2_col2" class="data row2 col2" >17.755349</td>
+      <td id="T_41f3a_row2_col3" class="data row2 col3" >238.253180</td>
+      <td id="T_41f3a_row2_col4" class="data row2 col4" >3.029304</td>
+      <td id="T_41f3a_row2_col5" class="data row2 col5" >nan</td>
+      <td id="T_41f3a_row2_col6" class="data row2 col6" >28.868970</td>
+      <td id="T_41f3a_row2_col7" class="data row2 col7" >nan</td>
+      <td id="T_41f3a_row2_col8" class="data row2 col8" >nan</td>
+      <td id="T_41f3a_row2_col9" class="data row2 col9" >nan</td>
     </tr>
     <tr>
-      <th id="T_4fa0d_level0_row3" class="row_heading level0 row3" >std_dev</th>
-      <td id="T_4fa0d_row3_col0" class="data row3 col0" >3</td>
-      <td id="T_4fa0d_row3_col1" class="data row3 col1" >20.338425</td>
-      <td id="T_4fa0d_row3_col2" class="data row3 col2" >5.045098</td>
-      <td id="T_4fa0d_row3_col3" class="data row3 col3" >327.663840</td>
-      <td id="T_4fa0d_row3_col4" class="data row3 col4" >4.125064</td>
-      <td id="T_4fa0d_row3_col5" class="data row3 col5" >nan</td>
-      <td id="T_4fa0d_row3_col6" class="data row3 col6" >2.286409</td>
-      <td id="T_4fa0d_row3_col7" class="data row3 col7" >nan</td>
-      <td id="T_4fa0d_row3_col8" class="data row3 col8" >nan</td>
-      <td id="T_4fa0d_row3_col9" class="data row3 col9" >nan</td>
+      <th id="T_41f3a_level0_row3" class="row_heading level0 row3" >std_dev</th>
+      <td id="T_41f3a_row3_col0" class="data row3 col0" >3</td>
+      <td id="T_41f3a_row3_col1" class="data row3 col1" >20.338425</td>
+      <td id="T_41f3a_row3_col2" class="data row3 col2" >5.045098</td>
+      <td id="T_41f3a_row3_col3" class="data row3 col3" >327.663840</td>
+      <td id="T_41f3a_row3_col4" class="data row3 col4" >4.125064</td>
+      <td id="T_41f3a_row3_col5" class="data row3 col5" >nan</td>
+      <td id="T_41f3a_row3_col6" class="data row3 col6" >2.286409</td>
+      <td id="T_41f3a_row3_col7" class="data row3 col7" >nan</td>
+      <td id="T_41f3a_row3_col8" class="data row3 col8" >nan</td>
+      <td id="T_41f3a_row3_col9" class="data row3 col9" >nan</td>
     </tr>
   </tbody>
 </table>
@@ -192,42 +192,42 @@
 
 # Consumption
 <style type="text/css">
-#T_c875c_row0_col8 {
+#T_6cf5f_row0_col8 {
   background-color: lightgreen;
 }
-#T_c875c_row0_col9 {
+#T_6cf5f_row0_col9 {
   background-color: lightcoral;
 }
 </style>
-<table id="T_c875c">
+<table id="T_6cf5f">
   <thead>
     <tr>
       <th class="blank level0" >&nbsp;</th>
-      <th id="T_c875c_level0_col0" class="col_heading level0 col0" >trip_id</th>
-      <th id="T_c875c_level0_col1" class="col_heading level0 col1" >initial_battery_kwh</th>
-      <th id="T_c875c_level0_col2" class="col_heading level0 col2" >end_batt_lvl_pct</th>
-      <th id="T_c875c_level0_col3" class="col_heading level0 col3" >end_batt_voltage</th>
-      <th id="T_c875c_level0_col4" class="col_heading level0 col4" >estimated_end_batt_lvl_pct</th>
-      <th id="T_c875c_level0_col5" class="col_heading level0 col5" >conso_kwh</th>
-      <th id="T_c875c_level0_col6" class="col_heading level0 col6" >regen_kwh</th>
-      <th id="T_c875c_level0_col7" class="col_heading level0 col7" >conso_corrected_kwh</th>
-      <th id="T_c875c_level0_col8" class="col_heading level0 col8" >average_wh/km</th>
-      <th id="T_c875c_level0_col9" class="col_heading level0 col9" >voltage_sag_coeff</th>
+      <th id="T_6cf5f_level0_col0" class="col_heading level0 col0" >trip_id</th>
+      <th id="T_6cf5f_level0_col1" class="col_heading level0 col1" >initial_battery_kwh</th>
+      <th id="T_6cf5f_level0_col2" class="col_heading level0 col2" >end_batt_lvl_pct</th>
+      <th id="T_6cf5f_level0_col3" class="col_heading level0 col3" >end_batt_voltage</th>
+      <th id="T_6cf5f_level0_col4" class="col_heading level0 col4" >estimated_end_batt_lvl_pct</th>
+      <th id="T_6cf5f_level0_col5" class="col_heading level0 col5" >conso_kwh</th>
+      <th id="T_6cf5f_level0_col6" class="col_heading level0 col6" >regen_kwh</th>
+      <th id="T_6cf5f_level0_col7" class="col_heading level0 col7" >conso_corrected_kwh</th>
+      <th id="T_6cf5f_level0_col8" class="col_heading level0 col8" >average_wh/km</th>
+      <th id="T_6cf5f_level0_col9" class="col_heading level0 col9" >voltage_sag_coeff</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="T_c875c_level0_row0" class="row_heading level0 row0" >0</th>
-      <td id="T_c875c_row0_col0" class="data row0 col0" >3</td>
-      <td id="T_c875c_row0_col1" class="data row0 col1" >0.750000</td>
-      <td id="T_c875c_row0_col2" class="data row0 col2" >84</td>
-      <td id="T_c875c_row0_col3" class="data row0 col3" >42.010000</td>
-      <td id="T_c875c_row0_col4" class="data row0 col4" >67.000000</td>
-      <td id="T_c875c_row0_col5" class="data row0 col5" >0.330000</td>
-      <td id="T_c875c_row0_col6" class="data row0 col6" >-0.080000</td>
-      <td id="T_c875c_row0_col7" class="data row0 col7" >0.250000</td>
-      <td id="T_c875c_row0_col8" class="data row0 col8" >12.080000</td>
-      <td id="T_c875c_row0_col9" class="data row0 col9" >-0.624000</td>
+      <th id="T_6cf5f_level0_row0" class="row_heading level0 row0" >0</th>
+      <td id="T_6cf5f_row0_col0" class="data row0 col0" >3</td>
+      <td id="T_6cf5f_row0_col1" class="data row0 col1" >0.750000</td>
+      <td id="T_6cf5f_row0_col2" class="data row0 col2" >84</td>
+      <td id="T_6cf5f_row0_col3" class="data row0 col3" >42.010000</td>
+      <td id="T_6cf5f_row0_col4" class="data row0 col4" >67.000000</td>
+      <td id="T_6cf5f_row0_col5" class="data row0 col5" >0.330000</td>
+      <td id="T_6cf5f_row0_col6" class="data row0 col6" >-0.080000</td>
+      <td id="T_6cf5f_row0_col7" class="data row0 col7" >0.250000</td>
+      <td id="T_6cf5f_row0_col8" class="data row0 col8" >12.080000</td>
+      <td id="T_6cf5f_row0_col9" class="data row0 col9" >-0.624000</td>
     </tr>
   </tbody>
 </table>
