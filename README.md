@@ -20,18 +20,18 @@ Contributions are closed.
 ## Average data based on all available data
 
 
-> Based on 95 trips.
+> Based on 96 trips.
 
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|20.64|
-|Average Rider Weight|kg|85.77|
-|Average Wheel Weight|kg|31.84|
-|Average Speed|km.h|28.47|
-|Average Power|Watts|764.52|
-|Average Consumption per trip|kWh|1.34|
-|Average Consumption|Wh.km|24.33|
+|Average Trip Distance|km|20.62|
+|Average Rider Weight|kg|85.82|
+|Average Wheel Weight|kg|31.89|
+|Average Speed|km.h|28.5|
+|Average Power|Watts|768.27|
+|Average Consumption per trip|kWh|1.33|
+|Average Consumption|Wh.km|24.44|
 
 ## Existing data
 
