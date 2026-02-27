@@ -28,10 +28,10 @@ Contributions are closed.
 |Average Trip Distance|km|20.62|
 |Average Rider Weight|kg|85.82|
 |Average Wheel Weight|kg|31.89|
-|Average Speed|km.h|28.5|
-|Average Power|Watts|768.27|
+|Average Speed|km.h|28.84|
+|Average Power|Watts|805.24|
 |Average Consumption per trip|kWh|1.33|
-|Average Consumption|Wh.km|24.44|
+|Average Consumption|Wh.km|24.79|
 
 ## Existing data
 
