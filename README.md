@@ -20,18 +20,18 @@ Contributions are closed.
 ## Average data based on all available data
 
 
-> Based on 103 trips.
+> Based on 110 trips.
 
 
 |**Field**|**Unit**|**Data**|
 | :---: | :---: | :---: |
-|Average Trip Distance|km|21.77|
-|Average Rider Weight|kg|86.14|
-|Average Wheel Weight|kg|33.21|
-|Average Speed|km.h|29.81|
-|Average Power|Watts|849.06|
-|Average Consumption per trip|kWh|1.36|
-|Average Consumption|Wh.km|25.27|
+|Average Trip Distance|km|21.02|
+|Average Rider Weight|kg|86.07|
+|Average Wheel Weight|kg|32.71|
+|Average Speed|km.h|29.68|
+|Average Power|Watts|837.65|
+|Average Consumption per trip|kWh|1.3|
+|Average Consumption|Wh.km|25.19|
 
 ## Existing data
 
@@ -43,6 +43,7 @@ Contributions are closed.
 |begode|mten4|<img src="imgs/wheels/portrait/mten4.webp" alt="drawing" width="64"/>|[details](analysis/mten4.md)|
 |inmotion|p6|<img src="imgs/wheels/portrait/p6.webp" alt="drawing" width="64"/>|[details](analysis/p6.md)|
 |inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
+|kingsong|s18_pro_plus|<img src="imgs/wheels/portrait/s18_pro_plus.webp" alt="drawing" width="64"/>|[details](analysis/s18_pro_plus.md)|
 |kingsong|s22_pro|<img src="imgs/wheels/portrait/s22_pro.webp" alt="drawing" width="64"/>|[details](analysis/s22_pro.md)|
 |leaperkim|lynx|<img src="imgs/wheels/portrait/lynx.webp" alt="drawing" width="64"/>|[details](analysis/lynx.md)|
 |ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
