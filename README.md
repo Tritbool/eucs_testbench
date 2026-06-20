@@ -1,56 +1,66 @@
+# EUC_Core for EUC_TestBench
+
+Jupyter based EUC data analysis for the community.
+
+## How to add a wheel :
+### METADATA
+1. Choose a file prefix that will be used to name all files and folders of your wheel. *e.g* : **extreme_C36**
+2. create specifications csv file in **build/specs**. Simply copy an existing csv and modify it for the wheel you want to add and save it. *e.g* **build/specs/extreme_C36.csv**
+
+| Field                 | Data                          |
+|-----------------------|-------------------------------|
+| Brand                 | Begode                        |
+| Model                 | Extreme C36                   |
+| Year                  | 2025                          |
+| Wheel diameter        | 18 inches                     |
+| Dimensions            | 460 x 336 x 565 mm (L x W x H) |
+| Pedal height          | 120 - 230 mm                  |
+| Controller position   | Top                           |
+| Tire dimension        | 3.0 R12                       |
+| Tubeless              | No                            |
+| RGB                   | No                            |
+| Water rating          | IP55                          |
+| Suspension            | 130 mm, spring-air shock      |
+| Max. Load             | 120 kg                        |
+| Net weight            | 39 kg                         |
+| Trolley               | Included, Central             |
+| Range                 | 70-90 km                      |
+| Max speed             | 70 km/h                       |
+| Motor power           | 3500 W                        |
+| Battery               | 2400 Wh                       |
+| Tension               | 134.4V                        |
+| Battery architecture | 32s4p                         |
+| Cells                 | SAMSUNG 50S (21700) li-ion    |
+| Smart BMS             | Yes                           |
 
 
 
+3. Find an image (jpg, png, webp,...) and put it in **build/imgs/wheels/portrait** *e.g* **imgs/wheels/portrait/extreme_C36.webp**
 
-# EUCS_testbench
-**EUCs logs analyzed to provide real statistics**
-> This page aims at providing insight of different EUC performance in real life usage.
+### TRIPS
+1. create a directory tree in the **trips** folder with the following structure : **/BRAND/WHEEL/TRIP_ID** where trip_id is an integer ranging from 0 to 10^31.
+For example : **begode/extreme_C36/0**
 
-## Contributing
-Contributions are closed.
-## Methods
-- **All the pages of this website are automatically generated directly from the available data**
+2. Put your log in the TRIP_ID folder and name it TRIP_ID.csv. *e.g*: **begode/extreme_C36/0/0.csv**
 
-- **Each wheel detailing page contains aggregated data of all logs that are available for this particular wheel.**
+3. Put your trip metadata in a file named **meta.csv** in the TRIP_ID folder. *e.g*: **begode/extreme_C36/0/meta.csv**
 
-- **Each trip is analyzed in detail and linked in a table in the bottom of each wheel's detailing page.**
+4. Make sure your metadata csv file is correct for your current log.
 
-- So far data must come from **WheelLog** or **EUC World**
-
-## Average data based on all available data
+| Wheel        | Brand  | Year | App        | Trip Type | Rider Weight | Tire Pressure | Temperature | Wind | Rain |
+|--------------|--------|------|------------|-----------|--------------|---------------|-------------|------|------|
+| extreme_C36  | begode | 2024 | euc_world  | 2         | 90           | 2.4           | 10          | mid  | True |
 
 
-> Based on 110 trips.
+## BUILD
 
+So far this project is based on notebooks, make sure to run the analyze in the following order to get everything correct.
 
-|**Field**|**Unit**|**Data**|
-| :---: | :---: | :---: |
-|Average Trip Distance|km|21.02|
-|Average Rider Weight|kg|86.07|
-|Average Wheel Weight|kg|32.71|
-|Average Speed|km.h|29.68|
-|Average Power|Watts|837.65|
-|Average Consumption per trip|kWh|1.3|
-|Average Consumption|Wh.km|25.19|
+Running scripts in another order will very likely alter the statistics and interpretability.
 
-## Existing data
+> A future version should embed everything in a single piece of software.
 
-|Brand|Model|Portrait|Details|
-| :---: | :---: | :---: | :---: |
-|begode|blitz|<img src="imgs/wheels/portrait/blitz.webp" alt="drawing" width="64"/>|[details](analysis/blitz.md)|
-|begode|extreme_C36|<img src="imgs/wheels/portrait/extreme_C36.webp" alt="drawing" width="64"/>|[details](analysis/extreme_C36.md)|
-|begode|master_pro_V2|<img src="imgs/wheels/portrait/master_pro_V2.webp" alt="drawing" width="64"/>|[details](analysis/master_pro_V2.md)|
-|begode|mten4|<img src="imgs/wheels/portrait/mten4.webp" alt="drawing" width="64"/>|[details](analysis/mten4.md)|
-|inmotion|p6|<img src="imgs/wheels/portrait/p6.webp" alt="drawing" width="64"/>|[details](analysis/p6.md)|
-|inmotion|v9|<img src="imgs/wheels/portrait/v9.webp" alt="drawing" width="64"/>|[details](analysis/v9.md)|
-|kingsong|s18_pro_plus|<img src="imgs/wheels/portrait/s18_pro_plus.webp" alt="drawing" width="64"/>|[details](analysis/s18_pro_plus.md)|
-|kingsong|s22_pro|<img src="imgs/wheels/portrait/s22_pro.webp" alt="drawing" width="64"/>|[details](analysis/s22_pro.md)|
-|leaperkim|lynx|<img src="imgs/wheels/portrait/lynx.webp" alt="drawing" width="64"/>|[details](analysis/lynx.md)|
-|ninebot|z10|<img src="imgs/wheels/portrait/z10.webp" alt="drawing" width="64"/>|[details](analysis/z10.md)|
-|nosfet|aero|<img src="imgs/wheels/portrait/aero.webp" alt="drawing" width="64"/>|[details](analysis/aero.md)|
-|nosfet|apex|<img src="imgs/wheels/portrait/apex.webp" alt="drawing" width="64"/>|[details](analysis/apex.md)|
-
-## Further data
-The more data for different wheels is collected, the more acurate analysis can be.For more acurate information, many trips should be analyzed and results aggregated to provide better insights of real world usafe of those devices.
-
----
+1. Run **EUC_analysis** to analyze each EUC trip in the **trips** folder.
+2. Run **EUC_page** to create each EUC page based on previously analyzed trips.
+3. Run **Landing_page** to generate the website landing page based on all data.
+4. Everything useful will be available in the **build** folder, that you can subsequently deploy on any Markdown blog :)
